@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-expense-tracker-1500-1509/expense_tracker_frontend"
+}
